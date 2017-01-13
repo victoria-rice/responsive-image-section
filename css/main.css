@@ -6,8 +6,15 @@
 
 html {
   box-sizing: border-box;
+  font-family: sans-serif;
+  background-color: #e2e2e2;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+.btn {
+  color: #000;
+  background-color: #555;
 }
